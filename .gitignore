@@ -1,0 +1,23 @@
+# Datasets (download from Kaggle, see data/README.md)
+data/*
+!data/README.md
+
+# Generated Kaggle submission files
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Credentials
+kaggle.json
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
