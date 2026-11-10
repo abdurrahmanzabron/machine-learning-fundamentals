@@ -108,7 +108,7 @@ All randomness is seeded (`SEED = 42`), so results are reproducible.
 
 - Identifiers in the code are in English. The explanations, comments, and printed output inside the notebooks are written in **Bahasa Indonesia**.
 - The datasets belong to their respective Kaggle competitions and are not redistributed here.
-- Developed with AI assistance (Claude Code). The references section at the end of each notebook documents the sources and tools that were used.
+- Built with a **vibe coding** workflow (AI-assisted development). Dataset sources and library references are listed at the end of each notebook.
 
 ## License
 
